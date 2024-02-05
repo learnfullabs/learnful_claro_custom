@@ -1,0 +1,8 @@
+{
+    "name": "learnfullabs/learnful_claro_custom",
+    "type": "drupal-custom-module",
+    "description": "Customizations to the Claro theme for Learnful Studio",
+    "homepage": "https://github.com/learnfullabs/learnful_claro_custom",
+    "license": "GPL-3.0+"
+  }
+  
