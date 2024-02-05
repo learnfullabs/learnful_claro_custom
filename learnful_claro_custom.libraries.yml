@@ -1,0 +1,5 @@
+learnful_claro:
+  version: 1.x
+  css:
+    theme:
+      css/learnful_claro.css: {}

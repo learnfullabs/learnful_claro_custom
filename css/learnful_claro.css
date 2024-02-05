@@ -1,0 +1,34 @@
+.form-element.chosen-container-multi,
+.form-element.chosen-container-single {
+    width: 100% !important;
+}
+
+.form-item__label.form-required::after {
+    content: "(* Required)" !important;
+    font-style: italic;
+    font-size: 0.9em;
+    vertical-align: unset !important;
+    line-height: unset !important;
+}
+
+#resource-step2-seta > legend {
+    display: none;
+}
+
+#resource-step2-seta > .fieldset__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 1em;
+}
+
+#resource-step2-seta > .fieldset__wrapper > div {
+    flex: 48%;
+}
+#resource-step2-seta > .fieldset__wrapper > div input,
+#resource-step2-seta > .fieldset__wrapper > div select {
+    width: 100%;
+}
+
+.term-reference-tree-level > li {
+    margin-bottom: 0.25em;
+}
